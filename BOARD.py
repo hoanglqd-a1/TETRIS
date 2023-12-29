@@ -1,5 +1,3 @@
-import TETRIS
-import BLOCK
 from RESOURCES import *
 
 class Board:
